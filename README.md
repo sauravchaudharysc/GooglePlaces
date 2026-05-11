@@ -1,60 +1,103 @@
 # Google Places Web App
 
-A responsive FastAPI web app that accepts a Google Place ID and returns:
+A modern FastAPI web application that accepts a Google Place ID and returns:
 
-- displayName.text
-- shortFormattedAddress
-- one place photo
+- `displayName.text`
+- `shortFormattedAddress`
+- One place photo
 
-## Local setup
+The application provides a clean UI and JSON-ready response format using the Google Places API.
 
-1. Install Python 3.10+
-2. Install dependencies:
+## Live Demo
+
+Try it here:
+
+[Google Places Web App](https://googleplaces.onrender.com)
+
+
+---
+
+## Features
+
+- FastAPI backend
+- Responsive modern UI
+- Google Places API integration
+- Fetch place details using Place ID
+- Display place photo dynamically
+- JSON-ready structured response
+- Copy JSON output button
+- Clean and minimal frontend
+
+---
+
+## Tech Stack
+
+- Python
+- FastAPI
+- HTML
+- CSS
+- JavaScript
+- Google Places API
+
+---
+
+## Local Setup
+
+### 1. Clone the repository
+
+```bash
+git clone <your-repository-url>
+cd <repository-folder>
+```
+
+### 2. Install Python 3.10+
+
+Download Python from:
+
+[Python Official Website](https://www.python.org/)
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file:
+### 4. Create a `.env` file
 
-```bash
+```env
 GOOGLE_API_KEY=your_google_places_api_key_here
 ```
 
-4. Run:
+Get your API key from:
+
+[Google Cloud Console](https://console.cloud.google.com)
+
+Enable:
+- Places API (New)
+
+---
+
+## Run the Application
 
 ```bash
 uvicorn main:app --reload
 ```
 
-5. Open:
+Open in browser:
 
 ```text
 http://127.0.0.1:8000
 ```
 
-## Deploy on Render
+---
 
-1. Push this folder to GitHub.
-2. Go to Render.
-3. New + → Web Service.
-4. Connect your GitHub repository.
-5. Use these settings:
+## API Flow
 
-```text
-Runtime: Python
-Build Command: pip install -r requirements.txt
-Start Command: uvicorn main:app --host 0.0.0.0 --port $PORT
-```
-
-6. Add environment variable:
-
-```text
-GOOGLE_API_KEY = your_google_places_api_key
-```
-
-7. Click Deploy.
-
-## Important
-
-Do not put your Google API key in frontend JavaScript. This project keeps the key in the backend.
+1. User enters a Google Place ID
+2. Backend calls Google Places API
+3. Fetches:
+   - Place name
+   - Short address
+   - Place photo
+4. Returns structured response
+5. Frontend renders UI dynamically
