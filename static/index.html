@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Place Finder</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <div class="hero-content">
+                <p class="eyebrow">Google Places API</p>
+                <h1>Find place details using Place ID</h1>
+                <p class="subtitle">
+                    Enter a Google Place ID and get the display name, short address, and one place photo in a clean JSON-ready format.
+                </p>
+
+                <form id="placeForm" class="search-card">
+                    <label for="placeId">Google Place ID</label>
+                    <div class="input-row">
+                        <input
+                            id="placeId"
+                            name="placeId"
+                            type="text"
+                            placeholder="Example: ChIJT5uBZwYeDTkRuJ11YPGVSYM"
+                            value="ChIJT5uBZwYeDTkRuJ11YPGVSYM"
+                            required
+                        />
+                        <button type="submit">Search</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+        <section class="result-section">
+            <div id="loader" class="loader hidden"></div>
+
+            <div id="errorBox" class="error-box hidden"></div>
+
+            <article id="resultCard" class="result-card hidden">
+                <div class="photo-wrap">
+                    <img id="placePhoto" src="" alt="Place photo" />
+                </div>
+
+                <div class="details">
+                    <p class="tag">Place Result</p>
+                    <h2 id="displayName">Place Name</h2>
+                    <p id="shortAddress" class="address">Address</p>
+
+                    <div class="json-box">
+                        <div class="json-header">
+                            <span>JSON Output</span>
+                            <button id="copyBtn" type="button">Copy</button>
+                        </div>
+                        <pre id="jsonOutput">{}</pre>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer class="footer">
+    Developed by 
+    <a 
+        href="https://www.linkedin.com/in/sauravchaudharysc/" 
+        target="_blank" 
+        rel="noopener noreferrer"
+    >
+        Saurav
+    </a>
+</footer>
+    <script src="/static/app.js"></script>
+</body>
+</html>

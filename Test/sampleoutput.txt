@@ -1,0 +1,541 @@
+{
+    "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM",
+    "id": "ChIJT5uBZwYeDTkRuJ11YPGVSYM",
+    "types": [
+        "monument",
+        "tourist_attraction",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+    ],
+    "nationalPhoneNumber": "011 2336 5358",
+    "internationalPhoneNumber": "+91 11 2336 5358",
+    "formattedAddress": "Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+    "addressComponents": [
+        {
+            "longText": "Mehrauli",
+            "shortText": "Mehrauli",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "Seth Sarai",
+            "shortText": "Seth Sarai",
+            "types": [
+                "sublocality_level_2",
+                "sublocality",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "New Delhi",
+            "shortText": "New Delhi",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "South Delhi",
+            "shortText": "South Delhi",
+            "types": [
+                "administrative_area_level_3",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "Delhi Division",
+            "shortText": "Delhi Division",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "Delhi",
+            "shortText": "DL",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "India",
+            "shortText": "IN",
+            "types": [
+                "country",
+                "political"
+            ],
+            "languageCode": "en"
+        },
+        {
+            "longText": "110030",
+            "shortText": "110030",
+            "types": [
+                "postal_code"
+            ],
+            "languageCode": "en-US"
+        }
+    ],
+    "plusCode": {
+        "globalCode": "7JWVG5FP+Q6",
+        "compoundCode": "G5FP+Q6 New Delhi, Delhi, India"
+    },
+    "location": {
+        "latitude": 28.5244754,
+        "longitude": 77.18552059999999
+    },
+    "viewport": {
+        "low": {
+            "latitude": 28.523605169708496,
+            "longitude": 77.18500516970849
+        },
+        "high": {
+            "latitude": 28.526303130291502,
+            "longitude": 77.1877031302915
+        }
+    },
+    "rating": 4.5,
+    "googleMapsUri": "https://maps.google.com/?cid=9460257356206415288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "websiteUri": "https://www.delhitourism.gov.in/tourist_place/qutab_minar.html",
+    "utcOffsetMinutes": 330,
+    "adrFormatAddress": "<span class=\"extended-address\">Seth Sarai, Mehrauli</span>, <span class=\"locality\">New Delhi</span>, <span class=\"region\">Delhi</span> <span class=\"postal-code\">110030</span>, <span class=\"country-name\">India</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 159558,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+        "text": "Qutb Minar",
+        "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+        "text": "Monument",
+        "languageCode": "en-US"
+    },
+    "primaryType": "monument",
+    "shortFormattedAddress": "Qutab Minar, Seth Sarai, Mehrauli, New Delhi",
+    "editorialSummary": {
+        "text": "73m tapering tower built in 1193 by Qutab-ud-din Aibak after defeat of Delhi's last Hindu kingdom.",
+        "languageCode": "en"
+    },
+    "reviews": [
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NelVVYzFSWGhtWWtsWWVETldXVmRpY21oWWNtYxAB",
+            "relativePublishTimeDescription": "2 months ago",
+            "rating": 5,
+            "text": {
+                "text": "The tall tower looked very impressive and beautiful. I was amazed by its height and the detailed carvings on the walls. The surrounding gardens were clean and pleasant. I enjoyed walking around and learning about its history. It was exciting to see such an old and famous monument in real life. But lighting show is average you can skip it.",
+                "languageCode": "en"
+            },
+            "originalText": {
+                "text": "The tall tower looked very impressive and beautiful. I was amazed by its height and the detailed carvings on the walls. The surrounding gardens were clean and pleasant. I enjoyed walking around and learning about its history. It was exciting to see such an old and famous monument in real life. But lighting show is average you can skip it.",
+                "languageCode": "en"
+            },
+            "authorAttribution": {
+                "displayName": "Ojas Prabhakar",
+                "uri": "https://www.google.com/maps/contrib/110383241647851307842/reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm6z1DrNw-kaPiYOBJ678wVVdI3Fw9djZXMfq6zrdgGP6kXXzq=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2026-02-25T16:32:48.387117674Z",
+            "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NelVVYzFSWGhtWWtsWWVETldXVmRpY21oWWNtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NelVVYzFSWGhtWWtsWWVETldXVmRpY21oWWNtYxAB!2m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aamNqWnhjVlprVG5saFlUWnFjRVZ2VW0xbVJWRRAB",
+            "relativePublishTimeDescription": "2 months ago",
+            "rating": 5,
+            "text": {
+                "text": "Visited Qutub Minar around 4 pm and stayed till 7 pm. Highly recommend staying to watch the sky slowly turn dark and the lights come on. The view becomes even more magical in the evening.\n\nIt is a giant structure with so many beautiful ruins around. There is a lot to explore and the architecture is stunning. Be prepared to walk quite a bit because the complex is large.\n\nAfter 6, Some areas start closing and guards ask people to move out from certain sections but you can still go close to Qutub Minar itself.\n\nYou can reach here easily. Get down at Saket metro station and it is about 10 minutes by auto from there.\n\nBuy your ticket online from the official ticket portal near the ticket counter otherwise you may have to stand in line for around 30 minutes.\n\nOne honest note especially for girls, there are some boys who pass comments so it is better to stay alert and avoid engaging. Otherwise it is a very beautiful and historic place worth visiting.",
+                "languageCode": "en"
+            },
+            "originalText": {
+                "text": "Visited Qutub Minar around 4 pm and stayed till 7 pm. Highly recommend staying to watch the sky slowly turn dark and the lights come on. The view becomes even more magical in the evening.\n\nIt is a giant structure with so many beautiful ruins around. There is a lot to explore and the architecture is stunning. Be prepared to walk quite a bit because the complex is large.\n\nAfter 6, Some areas start closing and guards ask people to move out from certain sections but you can still go close to Qutub Minar itself.\n\nYou can reach here easily. Get down at Saket metro station and it is about 10 minutes by auto from there.\n\nBuy your ticket online from the official ticket portal near the ticket counter otherwise you may have to stand in line for around 30 minutes.\n\nOne honest note especially for girls, there are some boys who pass comments so it is better to stay alert and avoid engaging. Otherwise it is a very beautiful and historic place worth visiting.",
+                "languageCode": "en"
+            },
+            "authorAttribution": {
+                "displayName": "Akatya Singh",
+                "uri": "https://www.google.com/maps/contrib/103792581146271912083/reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjy6MtkVK7Su58TEpE_yk9yRv3vc0xcd086rafsOQz8obXquZe=s128-c0x00000000-cc-rp-mo-ba3"
+            },
+            "publishTime": "2026-03-03T09:36:16.856295209Z",
+            "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aamNqWnhjVlprVG5saFlUWnFjRVZ2VW0xbVJWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aamNqWnhjVlprVG5saFlUWnFjRVZ2VW0xbVJWRRAB!2m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4NVlWWlhiRkpuTlVsRmRYcHhjakJRV2tSemJuYxAB",
+            "relativePublishTimeDescription": "2 months ago",
+            "rating": 5,
+            "text": {
+                "text": "Qutub Minar is truly a masterpiece of architecture and history! Standing tall at 73 meters, this UNESCO World Heritage Site leaves you amazed with its intricate carvings and detailed inscriptions. The red sandstone structure looks even more beautiful in sunlight, making it perfect for photography.\nThe surrounding complex, including the ancient ruins and the famous Iron Pillar, adds to the historical charm of the place. The atmosphere is peaceful, and walking around the monument gives you a deep sense of India’s rich heritage.\nA must-visit spot in Delhi for history lovers, travelers, and anyone who appreciates architectural beauty! ✨",
+                "languageCode": "en"
+            },
+            "originalText": {
+                "text": "Qutub Minar is truly a masterpiece of architecture and history! Standing tall at 73 meters, this UNESCO World Heritage Site leaves you amazed with its intricate carvings and detailed inscriptions. The red sandstone structure looks even more beautiful in sunlight, making it perfect for photography.\nThe surrounding complex, including the ancient ruins and the famous Iron Pillar, adds to the historical charm of the place. The atmosphere is peaceful, and walking around the monument gives you a deep sense of India’s rich heritage.\nA must-visit spot in Delhi for history lovers, travelers, and anyone who appreciates architectural beauty! ✨",
+                "languageCode": "en"
+            },
+            "authorAttribution": {
+                "displayName": "SAMBIT MAITI",
+                "uri": "https://www.google.com/maps/contrib/116978144089409788814/reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWB-EhSML_O4PKE5B1eCakRPeP83slaaG8o8dqo_6dbU5Vf38U=s128-c0x00000000-cc-rp-mo-ba5"
+            },
+            "publishTime": "2026-03-01T03:39:07.501196051Z",
+            "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4NVlWWlhiRkpuTlVsRmRYcHhjakJRV2tSemJuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4NVlWWlhiRkpuTlVsRmRYcHhjakJRV2tSemJuYxAB!2m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNFRVMVFObXRwZVRONVQzY3RSRXBTWkROM1MzYxAB",
+            "relativePublishTimeDescription": "2 months ago",
+            "rating": 5,
+            "text": {
+                "text": "A stunning historical site! I highly recommend purchasing your tickets online to avoid long queues and save time. Right next to the monument, there is a beautiful, quiet park perfect for a peaceful walk in nature. It’s a great place to relax and admire the architecture from a different perspective. A must-visit!",
+                "languageCode": "en"
+            },
+            "originalText": {
+                "text": "A stunning historical site! I highly recommend purchasing your tickets online to avoid long queues and save time. Right next to the monument, there is a beautiful, quiet park perfect for a peaceful walk in nature. It’s a great place to relax and admire the architecture from a different perspective. A must-visit!",
+                "languageCode": "en"
+            },
+            "authorAttribution": {
+                "displayName": "Oscar Berto",
+                "uri": "https://www.google.com/maps/contrib/103938678119433648220/reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLr8X2oHi_xJXaViVyogodPq7dpc8z6AjYJiLMS7YOYAcD0Jw=s128-c0x00000000-cc-rp-mo-ba4"
+            },
+            "publishTime": "2026-03-04T16:38:26.688314505Z",
+            "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNFRVMVFObXRwZVRONVQzY3RSRXBTWkROM1MzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNFRVMVFObXRwZVRONVQzY3RSRXBTWkROM1MzYxAB!2m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxV05WWnZka1JvWkZkbFlsSklkRXR5VVhBMVNGRRAB",
+            "relativePublishTimeDescription": "2 months ago",
+            "rating": 5,
+            "text": {
+                "text": "Visited Qutub Minar during my Delhi trip and it was an amazing historical experience 🌍✨. The monument looks even more beautiful in real life — the detailing and height are impressive.\n\n🫧✨ The surrounding garden area is clean and perfect for photos and relaxing for some time. It’s a must-visit place if you love history and architecture.,✨❤️\n\n✅ Important ticket point:\nIf you buy the ticket online, it costs around ₹35 per person (Indian citizen). But if you buy the ticket offline at the counter, they usually charge ₹50 per person. Sometimes the price difference may vary slightly, but online ticket booking is definitely cheaper and saves time as well. So it’s better to book online before visiting.\n\n❌ Negative points:\nThe place gets very crowded on weekends and holidays. Also, there are limited shaded areas, so visiting in the afternoon can feel very hot.🫧🌍\n📍\nOverall, Qutub Minar is worth visiting for its historical importance and beautiful architecture. Just try to book tickets online and visit in the morning or evening for a better experience. 😊✨❤️🤍",
+                "languageCode": "en"
+            },
+            "originalText": {
+                "text": "Visited Qutub Minar during my Delhi trip and it was an amazing historical experience 🌍✨. The monument looks even more beautiful in real life — the detailing and height are impressive.\n\n🫧✨ The surrounding garden area is clean and perfect for photos and relaxing for some time. It’s a must-visit place if you love history and architecture.,✨❤️\n\n✅ Important ticket point:\nIf you buy the ticket online, it costs around ₹35 per person (Indian citizen). But if you buy the ticket offline at the counter, they usually charge ₹50 per person. Sometimes the price difference may vary slightly, but online ticket booking is definitely cheaper and saves time as well. So it’s better to book online before visiting.\n\n❌ Negative points:\nThe place gets very crowded on weekends and holidays. Also, there are limited shaded areas, so visiting in the afternoon can feel very hot.🫧🌍\n📍\nOverall, Qutub Minar is worth visiting for its historical importance and beautiful architecture. Just try to book tickets online and visit in the morning or evening for a better experience. 😊✨❤️🤍",
+                "languageCode": "en"
+            },
+            "authorAttribution": {
+                "displayName": "Shaijan Shaikh",
+                "uri": "https://www.google.com/maps/contrib/108137583908612994946/reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTjtj2Ea-3ROjoQr0DMRIwxZ8VW34gHP78jdWAw6HsbSvCnamHwQ=s128-c0x00000000-cc-rp-mo-ba5"
+            },
+            "publishTime": "2026-03-03T18:46:03.404653149Z",
+            "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxV05WWnZka1JvWkZkbFlsSklkRXR5VVhBMVNGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxV05WWnZka1JvWkZkbFlsSklkRXR5VVhBMVNGRRAB!2m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        }
+    ],
+    "photos": [
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-t-weV0hG2R4aJSkGCjdULkkylPn_Cf_KJ6ycbUwu77fPHnazGX4zJgZS_KnA9Tm0CuQRMY0DLw8TMlgO8bIErFbBGdtUWZVBCVWYGY6VeOHyOhMju9gLpsClRF28wsR250ab-Cm5HPz99VbflCL4ArCrtQo9y7W1asGDK_wpeuOcS3a6nYdnPuS29m3xDBL7aW1_z4Sz5xki1jjoF9_f52d_cJ0VucSZQcFTPLhIXYbk2folhqEtL2QsFvQ-Fg76c4dBuuteANMKy0aKwDbNd0J8ea95IS9ww4AWakrNNHd3oqSq9ZIwG4glcPVyd0hUovEUB8wE-iVJ1unkvzhs16JfI2ZF-91p64ZOj9MNylTFyAeZ8kebKlp5DmBw4p7zhUsVDsnwHH0y6nWUv8O9iGmWqwm-bOOsYgE3hEwPY0PQ",
+            "widthPx": 1080,
+            "heightPx": 1080,
+            "authorAttributions": [
+                {
+                    "displayName": "Ahsan Javed",
+                    "uri": "https://maps.google.com/maps/contrib/112602219330553073749",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAPW6CKy9Nf7J4_cVOjGr3b7D857dI_WtbmT8k6roNGbgshLD4hQ=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM_IGqAQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM_IGqAQ!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-sVpw1-rhJlmK3MzOriIoiVfN7TUZC4FynwiKaYPgb3eHGwMYax11hpGsoJN__MXwhHy_Tvoi4Y7RR03rQQ3svXPj8hj8O5uCryiFT_i4YZpbBstJ7jv7Xgv7renvIKNAZonsCzTBHkHVaeFqMfI1MGVKGoQIv5h35jFC6j9XGIPIsQWKCEVjuTEf7TVFwhJcFhWLYBYjnyH2u4FlumO_ch8yre7fXgiIP1FJ6oerLdcgjppzlcGr5UDS1vEFra3DSLXKbnkFXPCYg0iIrPF12XeBuKxTmpAubwIdKvbCWQSkay1DYSPDN7KsgVYob8PUO4uY9Q2ZZ2PZbfBSXx2ZYpxWpRcN2bmXgOL8VbdxnJs0bzxXF_S0ezJ5Yhcjm_Uu5hwIkwbktpSHLRw0PgkEq01DCL3iuXL7W4Pr8UqgimJuM",
+            "widthPx": 4032,
+            "heightPx": 3024,
+            "authorAttributions": [
+                {
+                    "displayName": "Ronny J. Friedl",
+                    "uri": "https://maps.google.com/maps/contrib/116080931715959843221",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6mSyg5QIyDeRsN9sh4sJMEPdZsrqR7jMauxkhzOuSlHg2VLSJ=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh6M_HngE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh6M_HngE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-taCXq5XnBRzSxMHtO4BeQaoGNsF6lPuOE1tKBxjVaur95HxknTXf8PamCFudlLo7pTJ0WrUS25_5_C7uELDyE8ukFrbm9ddfPV0L4pdBhzHFnFlYfOX7XvGZWquLMZnggESHWOiFGUt5jj0vjuw1MnJC0Chfg1O9wZLqK3e_VA9ptTlttwvdR-Y70JGgY1V1gyxK_CQjekQ9xTS07xazs94iy-ETQhv62Z8KjcbI31F-UN2JW0b-cK284rxGWV7-wyYg1UfIydG3x3qCl6t9oB0RfVn_T63XSD9ZimTb0DpH-VAch3IvX17XxbkPic6tFlqO0qdH9Z-xW_3ByYkJm_csqAo7BU3jY2hak0vMZGpqdHZe62DNdK6sdtu8wDNiJCpVKtI9DLjWazoac4TNvr0RUA_Oq-n5kxQO6Ndl_yFQ",
+            "widthPx": 4032,
+            "heightPx": 3024,
+            "authorAttributions": [
+                {
+                    "displayName": "Kertu Veske",
+                    "uri": "https://maps.google.com/maps/contrib/104842117326910408789",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPKJ-KbfEBIz4PT6zGqz1yvXl9-7mCU4ve-3bFBH82VzRX3RNYRQ=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRoqKlTw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRoqKlTw!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-u8j1Nz8QMNqv3TI6uqM51pCdIMo6yUTcyWwiJlu50VBZbJjw2Ngi2DNgncOV0-Ieoml9Nv1URgANagKnFxfOu8sleKc3BsAcM3PXOYRqWrLM0sj7L0UfzVDZ69jlluXprLtgoMxAEDyPBGlobWBOHHG52ukgh5xTxEmWYs63EuA4PBU0l6SKnGh6hrdjae-xO6rghcAnirg8A3W1TgZpNCCneSdPg4nqOBk_mFosl90EZnvCdZNQreOKK17AvgRlpk-j3Iuy3OQX4oS3-fiM06pFd_I-R97BslZQYJjp1ukNnj7vJ0OZFsMOkUwFyOjHkSJTajUEUwEHPPV2dYI-9Vvak6h7rTel9GrVGgH0PmjZiiI4eK0E-pxMekJImeznc0L0QhEDNOH5x31cl5TFDiojwkvmTbGeEbZyIPPYs",
+            "widthPx": 4032,
+            "heightPx": 3024,
+            "authorAttributions": [
+                {
+                    "displayName": "Poay Siak Lim",
+                    "uri": "https://maps.google.com/maps/contrib/102098737481067771755",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMlbCl-0JFt5bcaeV8IxoarXq7jGB5uoU6bnZ-mtJDC16Ng4A=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5yrmyMQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5yrmyMQ!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-ufaPZXoGAUMEfLZ1WaJ25PfzuqQ8pm_OHHBCrRxVVAD5kDg5hFUWgq2b9vlzf7p7rLwA-Wmie2GQzeHhpxtPiEMTi4lwl0SGQWRMULoAyolh6QtB-AVzQscMtxp3DCaHfQ0Sd7vylCDIMAdgYRshvm4BP0YSaHAfm2bdO0Bc5wauqXwSgjg8Di6-Y_zJXC_QJQ6-gBTRFwaMni-WKvRvHr-bOOZj0z0iIsJcCvIis6pqPk75MTTV7AYrjoE6Uk9yIpzDEITC9lTHizEUIkoeuM9wjpeER-4wVA_PHBjAs8Dn9PAaCmKxM8Kp_gcsWweHglC8k3nCVRfNzVjD6GRQhTPXp-MOApN6YqfPPb8_jFd6n2Q6PCNbQERzk7V_-YiCfCS5_oWaiXUiR3BBwvDGBsuX-wMOxuDV7ZCaCvA2hnkDR2",
+            "widthPx": 4624,
+            "heightPx": 3468,
+            "authorAttributions": [
+                {
+                    "displayName": "Gautam Kushwaha",
+                    "uri": "https://maps.google.com/maps/contrib/102638378934385750637",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKk9iOcoJshanu8mW_6prIRFiIv8Uh7zPY0W1cXGCA9txQCoQ0yw=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICupd2OrAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICupd2OrAE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-uWC-OwHAcsOvkhPbQO4a8IyhLDB9NPIKraFCPlOol9WTQ40SawKZPvOnUU-IO37Vu-CTe3B8ySe6ve-B2P44hAqcBgOPY3dgyc-2PufTFBFYS0xSYGJE6AYtDGCFbRtAddqm8pqwtMOqdEIDnQqUJxMYOGLTqaThSIOOxl7RS6E6W-llXl_CXZSix9W2IVD8AiPrnYXVjY_nVSIqWlsYX0GiEJqDABE7Z8cLvTLQPd_NiZ934oxbB8WU0Y7aSdPanBB2VZX2cNc0UfQXU1bNe1yts38pkz75ohAtmLbt92RS-qp5xWtGJ2QGwzFQ3UMTnC0xkDS1TxGP-F2_NL5bJCVGgC50Atn4UN6IyZWaLo7UmFS6hUQOywaBXwTj3CA4Oy4pvD05KmZ_DdfR9Ur2DY9yAqIoBvTRNCFcxtITHf2A",
+            "widthPx": 3264,
+            "heightPx": 2448,
+            "authorAttributions": [
+                {
+                    "displayName": "saurabh singh",
+                    "uri": "https://maps.google.com/maps/contrib/105916852748935774379",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwPny4HlctbB24TrTmwtY-HcS_xrLo6OG0z0c1Nj3suA7K5oZW=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWkL_5Gg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWkL_5Gg!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-sUlXqpvjH5zT2Tx4f1Dg6ATfnCwhNBsn4Cf5G_TI2ro5CQffgl41xuZ1xIqmazK3At86Fmoz3anVJR495owKdFSOdCWU-Oao2m0XRIocOhmz6qbiHmXwuE9n3CBkAb_xvuf3mnpTpicZ_NVwxKviZHN4g7PocOoVKV-CRoG2DFzKVKzWcQOOKc4k3ZWLWyYHTKYqXCtBHimtKwg5t1iJRxjfHWiJ3qrSC-KRCggd4uT1cod2XQyuCVThdULaPZXvtjPT9HiqoEdpoT8L1OdKtYgkJn57EiT_FdGeQ72DyQ2XgJHrkXAz45AzhmYuAc4gW5Irz04wvh68_Z15ZrGLu0Wqv14Mxz7bGC3bPrIWqKObShUvLSmE9pxliWfOQFixuWIdvCUVe11kdTz4H4I0yiI_33pSLtxT37vv5HU02Ft3R8",
+            "widthPx": 2366,
+            "heightPx": 3155,
+            "authorAttributions": [
+                {
+                    "displayName": "Anup Chaaras",
+                    "uri": "https://maps.google.com/maps/contrib/113277871913105869665",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRStepQfu1Tg4jzp_78bSJNIw9jNSHJbwR4NAwi-tYjga0CQyvIQ=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDGwbqGxQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGwbqGxQE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-saif9TG381GmN_cA3W9FXbQcH8jTNgHkEzFWM6mIdxsw2dcsY7kcaryQKriokV9m5p5e_lWC-3bSUYLEL7hSidaJlGjelIpbphfq83nzMXhpDB4wTKj73IEA4tqjwdPwIrUwJylcQ1o9VrSooQezcVa7D3tMAnSk2cwAw1P9nnOA6wvjlfGb_vG8P3uX14U0fXpd-YK_wbH2XnbspKV-7TZXKgOLDdy9RERH-DRSZEdUmzFbf4Bwlh0fuyr3Ll_ZSEPAu4b_TW4wr_H1RJYEwu2KtUG-IoCgq_eNKghml1wjW6gshDf7XqOBoih-RFuDJD-4wKfR4weLSPfGAKrAnVzjoHYV9W2-INFGG_egfRPnIiuKOd_HNhoMhiarP-oREH2tMOqHoXLDBly7JcU_Mx0AQDOI41RWFUOX6z4FOfX46z",
+            "widthPx": 3024,
+            "heightPx": 4032,
+            "authorAttributions": [
+                {
+                    "displayName": "Mohan Chaudhari",
+                    "uri": "https://maps.google.com/maps/contrib/100342491178816483299",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7T3hHHEW-Q5s4j11QG0ds3VWLADyHPWJhToruC0kPJ5FS464M-A=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD9Pnm1gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD9Pnm1gE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-uPGWU1qNPT-0jeiSFX_EQBTrPEPlIVr9jcMxxz408fbPFnAwNfdbjmDJc6vTsRuoes9uQvnk4D_nVioD4RnUQV0n-bZ5UOL8mY_0pncVNfGDqpb-ziCPOjhwxdv1OyEJe1dufOpehOCChrN7nvrlXEoe2KgYaQ9kdxN-QK07E8o-H33ki2GsX6DLADz7vymbpEt91C_1xnTEAUAO-JIbBWNbtwnUFFThX5LDpS9avXm7_0WphApvmq2KDXNqcfAZHXqjykaa0mjqdLncwXa9-R8ofPZ6E4zOUqa_1R1H-1ZYI5B0xghTBD5dHtuccfEu12GFViGbNMgqULi_djZn2HwRKaSVK9HpLP5E7TEc4rzYIDTtKP8cOdNOGY9U7Rd7BdhvlmKKqoZbDmJwduEWUTfGWAg1ctWUKwznIIZ3LZjsmV",
+            "widthPx": 4032,
+            "heightPx": 3024,
+            "authorAttributions": [
+                {
+                    "displayName": "sameer",
+                    "uri": "https://maps.google.com/maps/contrib/105298506769581864601",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPcV3ggubzAzNWyddlAKdyTfun6zLJ-7O2atYO_MxgCgyjCzWN5w=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICWzqGXpAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWzqGXpAE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        },
+        {
+            "name": "places/ChIJT5uBZwYeDTkRuJ11YPGVSYM/photos/Ab43m-s-r4VoeTMjLaXG-OR81zYid2ex1cJKnr5YX7MErHT1w8zve5dFAB51xtcjxArA3sLkXhbmrWaJOMYVpT0AQ1cODtQMhE3LSBUC256T08tTmd0c8K9SN7xRvIsFiFVkjoYGtn42rwsO5UOpTq47gxAOLL8HdKORN5ThJ-Kt7v9-FKZuJ5WO6CyDe_tIzpxnBVCVaeOQwmNspfMunSkLOSqnwy3vbVEs_sertl3WWCK9uRacIDPPhSqgAb6l6ACY1oOObQ2nF3S8EKxkojnNj2TQTcumGWFM0-QhTh-cXdxMNPNQy0LaphaRlqaiZJLdKrGUgT8pxTg0BCsJtBxm0utdZnqPhdLu7dd83nkC--3hN9LTnCf8ZDPbuL820_Al-CWdD_mVNFSVECh7SxHH5sV2PK1zBSqXqCTnO-wRZlDlSK0J",
+            "widthPx": 3000,
+            "heightPx": 4000,
+            "authorAttributions": [
+                {
+                    "displayName": "RANSHER RAJ",
+                    "uri": "https://maps.google.com/maps/contrib/111258128348427482507",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKapJUQ3So3VfBj5-JSoUiQU8bOJpbbDs9T7NtZoC7rCh_0Mhg=s100-p-k-no-mo"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxz7bqogE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxz7bqogE!2e10!4m2!3m1!1s0x390d1e0667819b4f:0x834995f160759db8"
+        }
+    ],
+    "goodForChildren": true,
+    "parkingOptions": {
+        "freeParkingLot": true,
+        "paidParkingLot": true,
+        "freeStreetParking": true,
+        "paidStreetParking": true
+    },
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "pureServiceAreaBusiness": false,
+    "addressDescriptor": {
+        "landmarks": [
+            {
+                "name": "places/ChIJZ99qGwceDTkRiYcaPeUWiLM",
+                "placeId": "ChIJZ99qGwceDTkRiYcaPeUWiLM",
+                "displayName": {
+                    "text": "Qutub Garden",
+                    "languageCode": "en"
+                },
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ],
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 86.625435,
+                "travelDistanceMeters": 6.3922167
+            },
+            {
+                "name": "places/ChIJ_2sYEAceDTkRgEi8CnIUs0s",
+                "placeId": "ChIJ_2sYEAceDTkRgEi8CnIUs0s",
+                "displayName": {
+                    "text": "Qutub Minar",
+                    "languageCode": "en"
+                },
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ],
+                "straightLineDistanceMeters": 111.987045,
+                "travelDistanceMeters": 131.29417
+            },
+            {
+                "name": "places/ChIJURzlqZAfDTkRcRvuo6DlTWQ",
+                "placeId": "ChIJURzlqZAfDTkRcRvuo6DlTWQ",
+                "displayName": {
+                    "text": "Bharat Petroleum, Petrol Pump -Budh Singh Gulab Singh",
+                    "languageCode": "en"
+                },
+                "types": [
+                    "establishment",
+                    "gas_station",
+                    "point_of_interest"
+                ],
+                "straightLineDistanceMeters": 383.84573,
+                "travelDistanceMeters": 380.29245
+            },
+            {
+                "name": "places/ChIJd1VGevkfDTkRTcKxjP3LNZE",
+                "placeId": "ChIJd1VGevkfDTkRTcKxjP3LNZE",
+                "displayName": {
+                    "text": "Mughal Garden",
+                    "languageCode": "en"
+                },
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ],
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 49.22769,
+                "travelDistanceMeters": 6.3876295
+            },
+            {
+                "name": "places/ChIJRZDAKAceDTkRDz8Hm9zq9lw",
+                "placeId": "ChIJRZDAKAceDTkRDz8Hm9zq9lw",
+                "displayName": {
+                    "text": "Ojas Art",
+                    "languageCode": "en"
+                },
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ],
+                "straightLineDistanceMeters": 163.44458,
+                "travelDistanceMeters": 166.35643
+            }
+        ],
+        "areas": [
+            {
+                "name": "places/ChIJLcAHZQYeDTkRx3a1DlKKLjE",
+                "placeId": "ChIJLcAHZQYeDTkRx3a1DlKKLjE",
+                "displayName": {
+                    "text": "Qutb Minar",
+                    "languageCode": "en"
+                },
+                "containment": "OUTSKIRTS"
+            },
+            {
+                "name": "places/ChIJfyPSxwceDTkR22WBNIG9MUE",
+                "placeId": "ChIJfyPSxwceDTkR22WBNIG9MUE",
+                "displayName": {
+                    "text": "Seth Sarai",
+                    "languageCode": "en"
+                },
+                "containment": "WITHIN"
+            },
+            {
+                "name": "places/ChIJXQmFyRQeDTkRRiV_43QfF2E",
+                "placeId": "ChIJXQmFyRQeDTkRRiV_43QfF2E",
+                "displayName": {
+                    "text": "Mehrauli",
+                    "languageCode": "en"
+                },
+                "containment": "WITHIN"
+            }
+        ]
+    },
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x390d1e0667819b4f:0x834995f160759db8!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+        "placeUri": "https://maps.google.com/?cid=9460257356206415288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x390d1e0667819b4f:0x834995f160759db8!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x390d1e0667819b4f:0x834995f160759db8!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x390d1e0667819b4f:0x834995f160759db8!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    },
+    "reviewSummary": {
+        "text": {
+            "text": "Visitors say this monument offers stunning architecture, intricate carvings, and a rich history, and they praise the beautiful and well-maintained grounds. They also highlight the affordable ticket prices and convenient online booking option.",
+            "languageCode": "en-US"
+        },
+        "flagContentUri": "https://www.google.com/local/content/rap/report?postId=5%401:CAIQACodChtyc19oOkRDeEp5bHBLeHVzSFJQcnpFOU1jWnc%7CCAIQACorChtyc19oOkRDeEp5bHBLeHVzSFJQcnpFOU1jWncSDAigut_BBhCrx4z3Ag&d=17924085&t=8",
+        "disclosureText": {
+            "text": "Summarized with Gemini",
+            "languageCode": "en-US"
+        },
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x390d1e0667819b4f:0x834995f160759db8!9m1!1b1"
+    },
+    "timeZone": {
+        "id": "Asia/Calcutta"
+    },
+    "postalAddress": {
+        "regionCode": "IN",
+        "languageCode": "en-US",
+        "postalCode": "110030",
+        "administrativeArea": "Delhi",
+        "locality": "New Delhi",
+        "addressLines": [
+            "Mehrauli"
+        ]
+    },
+    "googleMapsTypeLabel": {
+        "text": "Monument",
+        "languageCode": "en-US"
+    }
+}
